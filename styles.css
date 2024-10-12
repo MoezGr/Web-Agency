@@ -18,7 +18,7 @@ body {
 .btn {
     width: 120px;
     height: 50px;
-    font-family: "Merriweather", serif;
+    font-family: inherit;
     color:rgb(4, 105, 36);
     font-weight: 700;
     font-size: 25px;
